@@ -2,7 +2,7 @@
 
 **`Simulations & Game Development, Content Creator`**
 
-Hello there! I'm a high school senior planning to study *Systems Engineering & Computer Science*. My vision is to use **simulations & digital twin software** to bring the future one step closer to reality. All projects listed are completely original, including work done at the Arizona State University AI + Transportation Lab and independent simulation/game projects.
+Hello there 👋! I'm a high school senior planning to study *Systems Engineering & Computer Science*. My vision is to use **simulations & digital twins** to bring the future one step closer to reality. All projects listed are completely original from ideation to execution.
    <p align="left">
       <a href="https://www.youtube.com/@eddie.z?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEZy1HFFPySOdGOPFWRPpMA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -21,7 +21,6 @@ Hello there! I'm a high school senior planning to study *Systems Engineering & C
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-(https://www.youtube.com/watch?v=52ZeHGGEf6o)
 
 <!-- END YOUTUBE-CARDS -->
 
