@@ -4,7 +4,7 @@
 
 Hello there! I'm a high school senior planning to study *Systems Engineering & Computer Science*. My vision is to use **simulations & digital twin software** to bring the future one step closer to reality. All projects listed are completely original, including work done at the Arizona State University AI + Transportation Lab and independent simulation/game projects.
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/@eddie.z?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEZy1HFFPySOdGOPFWRPpMA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@eddie.z/">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEZy1HFFPySOdGOPFWRPpMA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
@@ -25,7 +25,7 @@ Hello there! I'm a high school senior planning to study *Systems Engineering & C
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@eddie.z?sub_confirmation=1)
 
 #
 
