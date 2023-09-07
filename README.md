@@ -2,22 +2,22 @@
 
 **`Simulations & Game Development, Content Creator`**
 
-Hello there! I'm a high school senior at Basis Phoenix planning to study Systems Engineering & Computer Science. My vision is to use simulations & digital twin software to bring the future one step closer to reality. All projects listed are completely original, including work done at the Arizona State University AI + Transportation Lab and independent simulation/game projects.
+Hello there! I'm a high school senior planning to study *Systems Engineering & Computer Science*. My vision is to use **simulations & digital twin software** to bring the future one step closer to reality. All projects listed are completely original, including work done at the Arizona State University AI + Transportation Lab and independent simulation/game projects.
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEZy1HFFPySOdGOPFWRPpMA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@eddie.z/">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEZy1HFFPySOdGOPFWRPpMA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/eddiezhu22?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/eddiezhu22?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/eddiezhu22?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/eddiezhu22?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
 
 
-### 📺 Latest YouTube Videos
+### 📺 My Favorite Videos!
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![If the code works, don’t touch it.](https://ytcards.demolab.com/?id=wT07kW-aPUQ&title=If+the+code+works%2C+don%E2%80%99t+touch+it.&lang=en&timestamp=1693929644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "If the code works, don’t touch it.")](https://www.youtube.com/watch?v=wT07kW-aPUQ)
