@@ -1,6 +1,6 @@
-eddie zhu
+i enjoy quantitative modeling of complex phenomena. 
 
-i enjoy quantitative modeling of complex phenomena.
+interests: learning, reasoning, beliefs, emergence
 
 
 [website]: https://github.com
